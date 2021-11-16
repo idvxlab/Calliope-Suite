@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Calliope-Suite/static/css/main.315f4036.chunk.css",
+    "main.js": "/Calliope-Suite/static/js/main.d5fd9672.chunk.js",
+    "main.js.map": "/Calliope-Suite/static/js/main.d5fd9672.chunk.js.map",
+    "runtime-main.js": "/Calliope-Suite/static/js/runtime-main.eda5b292.js",
+    "runtime-main.js.map": "/Calliope-Suite/static/js/runtime-main.eda5b292.js.map",
+    "static/css/2.60a5af1d.chunk.css": "/Calliope-Suite/static/css/2.60a5af1d.chunk.css",
+    "static/js/2.726104b2.chunk.js": "/Calliope-Suite/static/js/2.726104b2.chunk.js",
+    "static/js/2.726104b2.chunk.js.map": "/Calliope-Suite/static/js/2.726104b2.chunk.js.map",
+    "static/js/3.132107b4.chunk.js": "/Calliope-Suite/static/js/3.132107b4.chunk.js",
+    "static/js/3.132107b4.chunk.js.map": "/Calliope-Suite/static/js/3.132107b4.chunk.js.map",
+    "index.html": "/Calliope-Suite/index.html",
+    "static/css/2.60a5af1d.chunk.css.map": "/Calliope-Suite/static/css/2.60a5af1d.chunk.css.map",
+    "static/css/main.315f4036.chunk.css.map": "/Calliope-Suite/static/css/main.315f4036.chunk.css.map",
+    "static/js/2.726104b2.chunk.js.LICENSE.txt": "/Calliope-Suite/static/js/2.726104b2.chunk.js.LICENSE.txt",
+    "static/media/banner.23d32bf2.png": "/Calliope-Suite/static/media/banner.23d32bf2.png",
+    "static/media/banner1_bk.028de031.svg": "/Calliope-Suite/static/media/banner1_bk.028de031.svg",
+    "static/media/banner2.512c62a1.png": "/Calliope-Suite/static/media/banner2.512c62a1.png",
+    "static/media/banner2_bk.dca12198.svg": "/Calliope-Suite/static/media/banner2_bk.dca12198.svg",
+    "static/media/banner3.2bc1f698.png": "/Calliope-Suite/static/media/banner3.2bc1f698.png",
+    "static/media/brand.93cf9f76.svg": "/Calliope-Suite/static/media/brand.93cf9f76.svg",
+    "static/media/data.27791bdc.png": "/Calliope-Suite/static/media/data.27791bdc.png",
+    "static/media/enterprise.b536c8d7.svg": "/Calliope-Suite/static/media/enterprise.b536c8d7.svg",
+    "static/media/icon_Competence.c2513136.svg": "/Calliope-Suite/static/media/icon_Competence.c2513136.svg",
+    "static/media/icon_Creative.a518a4fa.svg": "/Calliope-Suite/static/media/icon_Creative.a518a4fa.svg",
+    "static/media/icon_Intelligent.0baa0cc6.svg": "/Calliope-Suite/static/media/icon_Intelligent.0baa0cc6.svg",
+    "static/media/icon_Satisfaction.fa3f1498.svg": "/Calliope-Suite/static/media/icon_Satisfaction.fa3f1498.svg",
+    "static/media/lite.ae912ab7.png": "/Calliope-Suite/static/media/lite.ae912ab7.png",
+    "static/media/software.098f27e8.svg": "/Calliope-Suite/static/media/software.098f27e8.svg",
+    "static/media/talk.45ae158a.png": "/Calliope-Suite/static/media/talk.45ae158a.png",
+    "static/media/users.1daa2de9.svg": "/Calliope-Suite/static/media/users.1daa2de9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda5b292.js",
+    "static/css/2.60a5af1d.chunk.css",
+    "static/js/2.726104b2.chunk.js",
+    "static/css/main.315f4036.chunk.css",
+    "static/js/main.d5fd9672.chunk.js"
+  ]
+}
