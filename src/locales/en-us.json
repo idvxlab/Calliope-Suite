@@ -1,0 +1,47 @@
+{
+    "home":"Home",
+    "welcome":"Welcome To Home",
+    "products": "Products",
+    "Solutions": "Solutions",
+    "Learn": "Learn",
+    "Support": "Support",
+
+    "Powering": "Powering the future with data narratives!",
+    "Automatically": "Automatically generate data-centric visual content to assist users in analyzing and understanding data, making your data valuable.",
+    "Explore": "Explore",
+    
+    "More": "More with Calliope",
+    "Intelligent": "Intelligent",
+    "Employs": "Employs advanced AI techniques to automatically analyze and represent data insights in form of a visual report. ",
+    "Creative": "Creative",
+    "Provide": "Provide the most creative and beautiful visualization results to ensure your multi-scenario use.",
+    "Competence": "Competence",
+    "Efficient": "Efficient teamwork to escort users and provide the most authoritative data analysis results.",
+    "Satisfaction": "Satisfaction",
+    "Professional": "Professional visualization tools for you to use, with a variety of work scenarios, to meet the needs of users in all industries.",
+
+    "enterprise": "Analytics for enterprise",
+    "enterprise-detail": "Get more value from your data in new and innovative ways.",
+    "enterprise-explore": "Explore Enterprise",
+    "software": "Analytics for software",
+    "software-detail":   "Integrate and embed analytics with a difference into your app.",
+    "software-explore": "Explore Embedded",
+    "users": "Analytics for domain users",
+    "users-detail": "Create remarkable data products that delight for domian users.",
+    "users-explore": "Explore Applications",
+
+    "suites": "Calliope suites generate high quality visual narrative content in real time.",
+    "try": "Try Now ⬇",
+    "Calliope·Data-detail": "Calliope·Data is an online intelligent visual data story generation platform for creating, editing, and sharing your own data stories.",
+    "Calliope·Data-try": "Calliope·Data",
+    "Calliope·Lite-detail": "Calliope·Lite is an intelligent data visualization system that can automatically convert a dataset uploaded by users into various forms of visual representations to help with the narration of data insights.",
+    "Calliope·Lite-try": "Calliope·Lite",
+    "Calliope·Talk-detail": "Through the data oriented question answering system, users can directly “ask” the system about the analysis of input table data, and get high-quality visual “answers”.",
+    "Calliope·Talk-try": "Calliope·Talk",
+
+    "see": "See for yourself",
+    "see-detail": "Get a demonstration of the Calliope suite in action and see how the Calliope analytics solution will transform your business through data innovation and process optimization. ",
+    "demo": "Demo",
+    "video": "Walkthrough Video"
+
+}

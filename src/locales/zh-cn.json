@@ -1,0 +1,46 @@
+{
+    "home":"首页",
+    "welcome":"欢迎来首页",
+    "products": "产品",
+    "Solutions": "解决方案",
+    "Learn": "更多",
+    "Support": "支持",
+
+    "Powering": "用可视化叙事描绘未来!",
+    "Automatically": "自动生成以数据为中心的可视内容，帮助用户分析和理解数据，使您的数据更有价值。",
+    "Explore": "立即使用",
+
+    "More": "关于Calliope",
+    "Intelligent": "智能",
+    "Employs": "采用先进的人工智能技术，以可视化报告的形式自动分析和呈现数据洞察。",
+    "Creative": "创意",
+    "Provide": "提供最具创意和美观的可视化报表排布形式，以确保您的多场景使用。",
+    "Competence": "信任",
+    "Efficient": "高效的团队合作为用户护航，并提供最权威的数据分析结果，使您的数据更有价值。",
+    "Satisfaction": "满意",
+    "Professional": "专业的可视化工具供您使用，具有多种工作场景，满足所有行业用户的需求。",
+
+    "enterprise": "企业分析方案",
+    "enterprise-detail": "以创新的方式从数据中获取更多价值。",
+    "enterprise-explore": "探索企业分析案例",
+    "software": "软件公司分析方案",
+    "software-detail": "将具有差异性的分析集成并嵌入到您的应用程序中。",
+    "software-explore": "探索软件公司分析案例",
+    "users": "用户分析方案",
+    "users-detail": "创造让每一个用户满意的卓越数据产品。",
+    "users-explore": "探索用户分析案例",
+
+    "suites": "Calliope套件可实时生成高质量的视觉叙事内容。",
+    "try": "开始使用 ⬇",
+    "Calliope·Data-detail": "Calliope·Data是一个在线智能可视数据故事生成平台，用于创建、编辑和共享您自己的数据故事。",
+    "Calliope·Data-try": "开始使用Calliope·Data",
+    "Calliope·Lite-detail": "Calliope·Lite 是一个轻量型数据可视化生成系统，能够自动分析并以多种形式呈现用户上传的数据，从而帮助用户叙述并诠释数据中的内涵。使用系统提供的编辑器，用户可以很方便的修改定制数据可视化的呈现内容及效果，并在此基础上快速创建具有内涵的可视化叙事内容。",
+    "Calliope·Lite-try": "开始使用Calliope·Lite",
+    "Calliope·Talk-detail": "通过面向数据的问答系统，用户可以直接向系统“询问”有关输入表格数据的分析问题，并得到高质量的可视化“回答”。",
+    "Calliope·Talk-try": "开始使用Calliope·Talk",
+
+    "see": "获取演示",
+    "see-detail": "获取Calliope套件的实际演示，并了解Calliope分析解决方案将如何通过数据创新和流程优化转变您的业务。",
+    "demo": "获取演示",
+    "video": "获取宣传视频"
+}
