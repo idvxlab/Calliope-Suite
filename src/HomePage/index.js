@@ -94,7 +94,7 @@ export default function HomePage() {
                             </div>
                         </Col>
                         <Col xxl={{span: 6, order: 'first'}} xl={{span: 6, order: 'first'}} lg={{span: 6, order: 'first'}} md={{span: 6, order: 'first'}} sm={{span: 6, order: 'first'}}  xs={{span: 12, order: 'last'}}>
-                            <Image src={banner}  style={{width: '100%', marginTop: '80px'}}/>
+                            <Image src={banner}  style={{width: '100%', marginTop: '40px'}}/>
                         </Col>
                     </Row>
                     
@@ -134,7 +134,7 @@ export default function HomePage() {
                         </div> 
                     </Row>
                     <Row className="section02-row02">
-                        <Col xxl={4} xl={4} lg={4} md={4} sm={6} xs={12} className="section02-row02-col" style={{paddingLeft: 0}}>
+                        <Col xxl={4} xl={4} lg={4} md={4} sm={6} xs={12} className="section02-row02-col" id="section02-row02-col01">
                             <div className="card02">
                                 <img className = "card02-icon" src={enterprise} alt="enterprise"></img>
                                 <h2 className = "card02-title">{t('enterprise')}</h2>
@@ -142,7 +142,7 @@ export default function HomePage() {
                                 <a class="btn btn-lg btn-primary section02-btn" href="../../components/#navbar" role="button">{t('enterprise-explore')}</a>
                             </div>
                         </Col>
-                        <Col xxl={4} xl={4} lg={4} md={4} sm={6} xs={12} className="section02-row02-col">
+                        <Col xxl={4} xl={4} lg={4} md={4} sm={6} xs={12} className="section02-row02-col" id="section02-row02-col02">
                             <div className="card02">
                                 <img className = "card02-icon" src={software} alt="software"></img>
                                 <h2 className = "card02-title">{t('software')}</h2>
@@ -150,7 +150,7 @@ export default function HomePage() {
                                 <a class="btn btn-lg btn-primary section02-btn" href="../../components/#navbar" role="button">{t('software-explore')}</a>
                             </div>
                         </Col>
-                        <Col xxl={4} xl={4} lg={4} md={4} sm={6} xs={12} className="section02-row02-col" style={{paddingRight: 0}}>
+                        <Col xxl={4} xl={4} lg={4} md={4} sm={6} xs={12} className="section02-row02-col" id="section02-row02-col03">
                             <div className="card02">
                                 <img className = "card02-icon" src={users} alt="users"></img>
                                 <h2 className = "card02-title">{t('users')}</h2>
@@ -173,7 +173,7 @@ export default function HomePage() {
                             </div>
                         </Col>
                         <Col xxl={6} xl={6} lg={6} md={6} sm={6} xs={0}>
-                            <Image src={banner2}  style={{width: '100%', marginTop: '80px', paddingRight: '3rem'}}/>
+                            <Image src={banner2}  style={{width: '100%', marginTop: '40px', paddingRight: '3rem'}}/>
                         </Col>
                     </Row>  
                 </Container>
@@ -191,7 +191,7 @@ export default function HomePage() {
                             </div>
                         </Col>
                         <Col xxl={7} xl={7} lg={7} md={7} sm={7} xs={0}>
-                            <Image src={data}  style={{width: '100%', marginTop: '80px'}}/>
+                            <Image src={data}  style={{width: '100%', marginTop: '40px'}}/>
                         </Col>
 
                     </Row>  
@@ -201,7 +201,7 @@ export default function HomePage() {
                 <Container>
                     <Row>
                         <Col xxl={7} xl={7} lg={7} md={7} sm={7} xs={0}>
-                            <Image src={lite}  style={{width: '100%', marginTop: '80px'}}/>
+                            <Image src={lite}  style={{width: '100%', marginTop: '55px'}}/>
                         </Col>
                         <Col xxl={{span: 5, order: 'second'}} xl={{span: 5, order: 'second'}} lg={{span: 5, order: 'second'}} md={{span: 5, order: 'second'}} sm={{span: 5, order: 'second'}} xs={{span: 12, order: 'last'}} >
                             <div className="section04-left">
@@ -229,7 +229,7 @@ export default function HomePage() {
                             </div>
                         </Col>
                         <Col xxl={7} xl={7} lg={7} md={7} sm={0} xs={0}>
-                            <Image src={talk}  style={{width: '100%', marginTop: '80px'}}/>
+                            <Image src={talk}  style={{width: '100%', marginTop: '40px'}}/>
                         </Col>
 
                     </Row>  
@@ -239,7 +239,7 @@ export default function HomePage() {
                 <Container>
                     <Row>
                         <Col xxl={7} xl={7} lg={7} md={7} sm={7} xs={0} style={{padding: '0 50px'}}>
-                            <Image src={banner3}  style={{width: '100%', marginTop: '80px'}}/>
+                            <Image src={banner3}  style={{width: '100%', marginTop: '40px'}}/>
                         </Col>
                         <Col xxl={{span: 5, order: 'second'}} xl={{span: 5, order: 'second'}} lg={{span: 5, order: 'second'}} md={{span: 5, order: 'second'}} sm={{span: 5, order: 'second'}} xs={{span: 12, order: 'last'}} >
                             <div className="section04-left">
