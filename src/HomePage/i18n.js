@@ -19,6 +19,7 @@ i18n.use(LanguageDetector) //嗅探当前浏览器语言
     },
   },
   //选择默认语言，选择内容为上述配置中的key，即en/zh
+  lng: "en",
   fallbackLng: "en",
   debug: false,
   interpolation: {

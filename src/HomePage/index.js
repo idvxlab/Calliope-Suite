@@ -38,7 +38,11 @@ export default function HomePage() {
         console.log("value", value)
         i18n.changeLanguage(value);
     }
-      
+
+    console.log('iii', i18n.defaultValue)
+
+
+    
 
     // render() {
         
@@ -71,6 +75,7 @@ export default function HomePage() {
                 <Select defaultValue={"en"} onChange={handleChange}>
                     <Option value="zh">中文</Option>
                     <Option value="en">EN</Option>
+                    
                 </Select>
                 
             </Navbar>
@@ -94,8 +99,8 @@ export default function HomePage() {
                     </Row>
                     
                 </Container>
-                <Row>
-                    <Image src={banner1_bk} />
+                <Row style={{marginRight: 0}}>
+                    <Image src={banner1_bk} style={{padding: 0, marginRight: 0}}/>
                     {/* <p className="section01-bottom">C A L L I O P E </p> */}
                 </Row>              
             </div>
