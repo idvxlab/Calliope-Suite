@@ -132,7 +132,7 @@ body {
 }
 .card01 {
   text-align: center;
-  padding: 0rem 32px;
+  padding: 0rem 2rem;
 }
 .card-title {
   padding: 16px;
@@ -159,12 +159,12 @@ body {
   color: rgba(51, 51, 51, 0.501557);
 
 }
-.section02-row02 {
-  margin-top: 5rem;
+.section02-row02-col {
+  margin-top: 1.375rem;
 }
 .card02 {
   text-align: center;
-  padding: 0rem 64px;
+  padding: 0rem 4rem;
   background-color: white;
   box-shadow: .625rem .625rem 1.25rem #eee;
   padding-top: 3.125rem;
@@ -210,7 +210,7 @@ body {
   font-size: 2.5rem;
   line-height: 4.375rem;
   color: #000000;
-  padding: 128px 0;
+  padding: 4rem 0;
 
 }
 .banner2_bk {
