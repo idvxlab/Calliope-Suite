@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Calliope-Suite/static/css/main.da9f5076.chunk.css",
-    "main.js": "/Calliope-Suite/static/js/main.11814442.chunk.js",
-    "main.js.map": "/Calliope-Suite/static/js/main.11814442.chunk.js.map",
+    "main.js": "/Calliope-Suite/static/js/main.c085d398.chunk.js",
+    "main.js.map": "/Calliope-Suite/static/js/main.c085d398.chunk.js.map",
     "runtime-main.js": "/Calliope-Suite/static/js/runtime-main.eda5b292.js",
     "runtime-main.js.map": "/Calliope-Suite/static/js/runtime-main.eda5b292.js.map",
     "static/css/2.60a5af1d.chunk.css": "/Calliope-Suite/static/css/2.60a5af1d.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/2.60a5af1d.chunk.css",
     "static/js/2.726104b2.chunk.js",
     "static/css/main.da9f5076.chunk.css",
-    "static/js/main.11814442.chunk.js"
+    "static/js/main.c085d398.chunk.js"
   ]
 }

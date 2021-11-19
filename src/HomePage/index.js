@@ -216,7 +216,7 @@ export default function HomePage() {
                     </Row>  
                 </Container>
             </div>
-            <div className="section06">
+            {/* <div className="section06">
                 <Container>
                     <Row>
                         <Col xxl={{span: 5, order: 'first'}} xl={{span: 5, order: 'first'}} lg={{span: 5, order: 'first'}} md={{span: 5, order: 'first'}} sm={{span: 12, order: 'first'}} xs={{span: 12, order: 'last'}} >
@@ -257,7 +257,7 @@ export default function HomePage() {
 
                     </Row>  
                 </Container>
-            </div>
+            </div> */}
         </div>
         )
     // }
