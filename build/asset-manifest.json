@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Calliope-Suite/static/css/main.378f41ea.chunk.css",
-    "main.js": "/Calliope-Suite/static/js/main.1da462ee.chunk.js",
-    "main.js.map": "/Calliope-Suite/static/js/main.1da462ee.chunk.js.map",
+    "main.css": "/Calliope-Suite/static/css/main.da9f5076.chunk.css",
+    "main.js": "/Calliope-Suite/static/js/main.11814442.chunk.js",
+    "main.js.map": "/Calliope-Suite/static/js/main.11814442.chunk.js.map",
     "runtime-main.js": "/Calliope-Suite/static/js/runtime-main.eda5b292.js",
     "runtime-main.js.map": "/Calliope-Suite/static/js/runtime-main.eda5b292.js.map",
     "static/css/2.60a5af1d.chunk.css": "/Calliope-Suite/static/css/2.60a5af1d.chunk.css",
@@ -12,8 +12,9 @@
     "static/js/3.132107b4.chunk.js.map": "/Calliope-Suite/static/js/3.132107b4.chunk.js.map",
     "index.html": "/Calliope-Suite/index.html",
     "static/css/2.60a5af1d.chunk.css.map": "/Calliope-Suite/static/css/2.60a5af1d.chunk.css.map",
-    "static/css/main.378f41ea.chunk.css.map": "/Calliope-Suite/static/css/main.378f41ea.chunk.css.map",
+    "static/css/main.da9f5076.chunk.css.map": "/Calliope-Suite/static/css/main.da9f5076.chunk.css.map",
     "static/js/2.726104b2.chunk.js.LICENSE.txt": "/Calliope-Suite/static/js/2.726104b2.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/Calliope-Suite/static/media/NotoSans-Regular.165e521e.ttf",
     "static/media/banner.23d32bf2.png": "/Calliope-Suite/static/media/banner.23d32bf2.png",
     "static/media/banner1_bk.028de031.svg": "/Calliope-Suite/static/media/banner1_bk.028de031.svg",
     "static/media/banner2.512c62a1.png": "/Calliope-Suite/static/media/banner2.512c62a1.png",
@@ -35,7 +36,7 @@
     "static/js/runtime-main.eda5b292.js",
     "static/css/2.60a5af1d.chunk.css",
     "static/js/2.726104b2.chunk.js",
-    "static/css/main.378f41ea.chunk.css",
-    "static/js/main.1da462ee.chunk.js"
+    "static/css/main.da9f5076.chunk.css",
+    "static/js/main.11814442.chunk.js"
   ]
 }

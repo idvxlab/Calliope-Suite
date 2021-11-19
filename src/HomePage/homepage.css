@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "Noto Sans S Chinese";
+  src: url(../asset/fonts/NotoSans-Regular.ttf);
+}
+@font-face {
+  font-family: "Arial";
+  src: url(../asset/fonts/Arial.ttf);
+}
+
 body {
   background-color: #F8F8FA;
   font-family: "Noto Sans S Chinese";
@@ -123,7 +132,7 @@ body {
 .slider-title {
   padding: 32px;
   text-align: center;
-  font-family: Noto Sans S Chinese;
+  font-family: "Noto Sans S Chinese";
   font-style: normal;
   font-weight: 900;
   font-size: 2.5rem;
